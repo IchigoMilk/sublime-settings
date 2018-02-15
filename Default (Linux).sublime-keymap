@@ -16,5 +16,8 @@
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
     { "keys": ["ctrl+pagedown"], "command": "next_view" },
-    { "keys": ["ctrl+pageup"], "command": "prev_view" }
+    { "keys": ["ctrl+pageup"], "command": "prev_view" },
+
+    // 行削除
+    { "keys": ["ctrl+shift+alt+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 ]
