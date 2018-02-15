@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abaqus",
+		"BracketHighlighter",
+		"Dotfiles Syntax Highlighting",
+		"Markdown Extended",
+		"Package Control",
+		"Random Everything",
+		"sublime_diagram_plugin",
+		"SublimeMozcInput",
+		"SyncedSideBar"
+	],
+	"repositories":
+	[
+		"https://github.com/yasuyuky/SublimeMozcInput",
+		"https://github.com/hardillb/sublime_diagram_plugin"
+	]
+}
